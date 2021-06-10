@@ -5,6 +5,7 @@ Our Website [https://omega-project.cz/](https://omega-project.cz/) !
 # Features!
 
   - Async packet sending
+  - Spoofed packets
   - Get ACK response
   - **Up** & **down** bandwidth flood
 

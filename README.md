@@ -6,6 +6,7 @@ Our Website [https://omega-project.cz/](https://omega-project.cz/) !
 
   - Async packet sending
   - Get ACK response
+  - **Up** & **down** bandwidth flood
 
 # How it work ?
 ![alt text](https://github.com/inplex-sys/syn-ack-ddos/blob/main/img/syn-ack.jpg?raw=true)
